@@ -68,6 +68,7 @@ else ()
 endif ()
 
 target_link_libraries(${PROJECT_NAME}
+    ${catkin_LIBRARIES}
     ${OpenCV_LIBRARIES}
     )
 
