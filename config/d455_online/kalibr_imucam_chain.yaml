@@ -11,7 +11,7 @@ cam0:
   distortion_coeffs: [0.0139916934292448, -0.009114608698616645, 0.0009893917462900645, 0.0022176750207485354]
   distortion_model: radtan
   intrinsics: [429.9552409391303, 429.39390888427647, 428.0010936476628, 240.3712285466882] #fu, fv, cu, cv
-  resolution: [848, 480]
+  resolution: [640, 480]
   rostopic: /camera/infra1/image_rect_raw
   timeshift_cam_imu: 0.0009263004619757373
 
